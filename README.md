@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Afrin Shikalgar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack develope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrinshikalgar&label=Profile%20views&color=0e75b6&style=flat" alt="afrinshikalgar" /> </p>
 
 - 🔭 I’m currently working on **StudyNotion Full Stack Project**
 
-- 🌱 I’m currently learning **backend Frameworks**
+- 🌱 I’m currently exploring **backend Frameworks**
 
 - 📫 How to reach me **shikalgarafrin7@gmail.com**
 
